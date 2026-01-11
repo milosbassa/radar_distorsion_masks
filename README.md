@@ -1,1 +1,1 @@
-# radar_distorsion_masks
+# SAR distorsion masks of Republic of Serbia
