@@ -33,7 +33,8 @@ Sample of descending radar shadow mask generation and pixel-based spatial expans
 
 <img width="379" height="378" alt="image" src="https://github.com/user-attachments/assets/fb7e6c44-3d87-46ae-80c8-5d107af1a05a" />
 
-The upper-left panel shows the local terrain morphology based on SRTM (World Hillshade), while the upper-right panel illustrates the original distortion mask. In this mask, darker red pixel values indicate shadow areas that spatially overlap with shadow occurrences detected in other SAR acquisitions, whereas brighter red pixels represent isolated distortion instances specific to the analyzed scene
+The upper-left panel shows the local terrain morphology, while the upper-right panel illustrates the original distortion mask. In this mask, darker red pixel values indicate shadow areas that spatially overlap with shadow occurrences detected in other SAR acquisitions, whereas brighter red pixels represent isolated distortion instances specific to the analyzed scene
+
 ---
 
 ### 2. Spatial Distribution Maps (12 files)
@@ -57,14 +58,13 @@ The dataset also includes:
 
 - 1 raster visualization showing sample distortion areas used in the publication figures  
 
-Mean-based zonal statistics of radar distortions across Serbia (ascending: a–c layover, shadow, combined; descending: d–f layover, shadow, combined).
+Mean-based zonal statistics of radar distortions across Serbia. Top row: ascending, bottom row: descending; columns (left to right): layover, shadow, combined.
 
-![Slika za rad - mean](https://github.com/user-attachments/assets/8f35792b-ada3-41ed-bd41-b7e1a120120a)
+<img width="5216" height="3848" alt="mean" src="https://github.com/user-attachments/assets/afba9d33-a319-408b-8f62-83d5fee79834" />
 
-Sum-based zonal statistics of radar distortions across Serbia 
+Sum-based zonal statistics of radar distortions across Serbia. Top row: ascending, bottom row: descending; columns (left to right): layover, shadow, combined.
 
-![Slika za rad](https://github.com/user-attachments/assets/72eb48f9-4282-4562-87a0-6f8e240ee90e)
-
+<img width="5760" height="3920" alt="sum" src="https://github.com/user-attachments/assets/315762d2-cc24-425b-adcd-73d06fda0b23" />
 
 These layers are intended for visualization of the published results.
 
