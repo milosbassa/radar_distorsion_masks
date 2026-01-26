@@ -1,5 +1,7 @@
 # SAR Geometric Distortion Masks and Spatial Distribution Dataset
 
+[![DOI](https://zenodo.org/badge/1132104713.svg)](https://doi.org/10.5281/zenodo.18380989)
+
 This repository provides a publicly available dataset of SAR geometric distortion (Layover and Shadow) products derived from Sentinel-1 imagery. The dataset includes distortion masks, spatial distribution maps (onal statistics outputs), and supplementary visualization layers used in the associated scientific publication.
 
 The dataset was generated using ESA SNAP software and SRTM 1 arc-second DEM and is intended to support research on SAR geometric distortions, terrain effects, and spatial analysis of layover and shadow phenomena.
