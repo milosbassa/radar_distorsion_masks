@@ -83,9 +83,7 @@ These rasters describe the spatial frequency and intensity of distortion occurre
 
 ### 3. Supplementary Visualization Layers
 
-The dataset also includes:
-
-- 1 raster showing Sentinel-1 acquisition footprint coverage
+The dataset is based on Sentinel-1 acquisition footprint coverage:
 
 ![Asc   Desc](https://github.com/user-attachments/assets/e5533655-cd01-486f-9b74-1c06951dec0b)
 
