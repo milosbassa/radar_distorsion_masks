@@ -14,11 +14,14 @@ The full dataset can be downloaded from:
 
 Raster distorsion masks:
 
-https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743fd3bdacc3a79b79b4e/Raster_results.rar
+https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743fd3bdacc3a79b79b4e/Raster_results.rar](https://github.com/milosbassa/radar_distorsion_masks/blob/1a91b72bcb242dc2c2329828c539737ff77c4a09/Dataset%20-%20Raster%20masks.rar
 
 Zonal statistics overview:
-https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743fd3bdacc3a79b79b4e/Mean%20-%20zonal%20statistics.rar
-https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743fd3bdacc3a79b79b4e/Sum%20-%20zonal%20statistics.rar
+
+*main*
+https://github.com/milosbassa/radar_distorsion_masks/blob/1a91b72bcb242dc2c2329828c539737ff77c4a09/Dataset%20-%20Zonal%20statistic%20(Mean).rar
+*sum*
+https://github.com/milosbassa/radar_distorsion_masks/blob/1a91b72bcb242dc2c2329828c539737ff77c4a09/Dataset%20-%20Zonal%20statistics%20(Sum).rar
 
 ---
 
