@@ -11,7 +11,14 @@ The dataset was generated using ESA SNAP software and SRTM 1 arc-second DEM and 
 The full dataset can be downloaded from:
 
 ➡ Dataset download link (Release archive):  
-[ADD RELEASE DOWNLOAD LINK HERE]
+
+Raster distorsion masks:
+
+https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743fd3bdacc3a79b79b4e/Raster_results.rar
+
+Zonal statistics overview:
+https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743fd3bdacc3a79b79b4e/Mean%20-%20zonal%20statistics.rar
+https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743fd3bdacc3a79b79b4e/Sum%20-%20zonal%20statistics.rar
 
 ---
 
