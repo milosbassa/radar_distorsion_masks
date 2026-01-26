@@ -62,7 +62,7 @@ Specifically, three variants were created for each distortion type:
 
 This resulted in a total of 18 raster masks (6 distortion types × 3 variants), enabling flexible sensitivity analysis of geometric distortion impacts depending on the selected spatial tolerance.
 
-Sample of descending radar shadow mask generation and pixel-based spatial expansion in mountainous terrain
+Sample of descending radar shadow mask generation and pixel-based spatial expansion in mountainous terrain:
 
 <p align="center">
 <img width="379" height="378" alt="image" src="https://github.com/user-attachments/assets/fb7e6c44-3d87-46ae-80c8-5d107af1a05a" />
