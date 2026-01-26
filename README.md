@@ -19,8 +19,11 @@ https://github.com/milosbassa/radar_distorsion_masks/blob/1647f5f05ddea58566b743
 Zonal statistics overview:
 
 *main*
+
 https://github.com/milosbassa/radar_distorsion_masks/blob/1a91b72bcb242dc2c2329828c539737ff77c4a09/Dataset%20-%20Zonal%20statistic%20(Mean).rar
+
 *sum*
+
 https://github.com/milosbassa/radar_distorsion_masks/blob/1a91b72bcb242dc2c2329828c539737ff77c4a09/Dataset%20-%20Zonal%20statistics%20(Sum).rar
 
 ---
