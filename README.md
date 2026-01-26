@@ -64,7 +64,9 @@ This resulted in a total of 18 raster masks (6 distortion types × 3 variants), 
 
 Sample of descending radar shadow mask generation and pixel-based spatial expansion in mountainous terrain
 
+<p align="center">
 <img width="379" height="378" alt="image" src="https://github.com/user-attachments/assets/fb7e6c44-3d87-46ae-80c8-5d107af1a05a" />
+</p>
 
 The upper-left panel shows the local terrain morphology, while the upper-right panel illustrates the original distortion mask. In this mask, darker red pixel values indicate shadow areas that spatially overlap with shadow occurrences detected in other SAR acquisitions, whereas brighter red pixels represent isolated distortion instances specific to the analyzed scene
 
