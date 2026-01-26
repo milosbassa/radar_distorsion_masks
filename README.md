@@ -36,13 +36,26 @@ The repository contains the following data products:
 
 ### 1. Distortion Mask Rasters (18 files)
 
-A total of 18 raster masks are provided:
+For each SAR geometric distortion type (layover, shadow, and their combination), both ascending and descending orbit acquisition geometries were considered. This resulted in a total of six primary distortion mask types:
 
-- 6 original distortion mask rasters  
-- 6 masks expanded by a 2-pixel buffer  
-- 6 masks expanded by a 5-pixel buffer  
+-layover in ascending orbit geometry,
+-layover in descending orbit geometry,
+-shadow in ascending orbit geometry,
+-shadow in descending orbit geometry,
+-combined layover and shadow in ascending orbit geometry,
+-combined layover and shadow in descending orbit geometry.
 
-These layers represent different spatial extents of SAR geometric distortions to support sensitivity analysis and uncertainty assessment.
+For each of these six distortion types, an original binary raster mask was generated to directly identify pixels affected by the corresponding geometric distortion. In addition to the original masks, extended versions were produced to account for spatial uncertainty related to imaging geometry, terrain representation errors in the digital elevation model, and mixed-pixel effects near distortion boundaries.
+
+Specifically, three variants were created for each distortion type:
+
+- the original mask without spatial expansion,
+
+- a mask expanded by a 2-pixel buffer,
+
+- a mask expanded by a 5-pixel buffer.
+
+This resulted in a total of 18 raster masks (6 distortion types × 3 variants), enabling flexible sensitivity analysis of geometric distortion impacts depending on the selected spatial tolerance.
 
 Sample of descending radar shadow mask generation and pixel-based spatial expansion in mountainous terrain
 
