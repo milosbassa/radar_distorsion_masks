@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Sentinel-1 SAR Geometric Distortion (Layover & Shadow) Masks and Spatial Distribution Maps of Serbia"
+version: "1.0.0"
+authors:
+  - family-names: "Basaric"
+    given-names: "Milos"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/milosbassa/radar_distorsion_masks"
