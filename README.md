@@ -153,7 +153,7 @@ All tabular data can be loaded into spreadsheet software or statistical environm
 
 If you use this dataset in your research, please cite it as:
 
-Basaric, M. (2026). SAR Geometric Distortion Masks and Spatial Distribution Dataset (Version 1.0.0). GitHub repository.  
+Basaric, M. ; Jovanović, D. (2026). SAR Geometric Distortion Masks and Spatial Distribution Dataset (Version 1.0.0). GitHub repository.  
 https://github.com/milosbassa/radar_distorsion_masks
 
 ---
